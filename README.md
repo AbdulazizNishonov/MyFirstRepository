@@ -1,1 +1,2 @@
 # MyFirstRepository
+print("Hello, World")
